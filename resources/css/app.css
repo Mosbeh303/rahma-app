@@ -1,0 +1,19 @@
+/*fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Tajawal&display=swap');
+
+
+/* Reset */
+@import 'tailwindcss/base';
+@import 'reset';
+
+
+
+/* Components */
+@import 'tailwindcss/components';
+@import 'buttons';
+@import 'form';
+
+/* Utilities */
+@import 'tailwindcss/utilities';
+
+@import 'table';
